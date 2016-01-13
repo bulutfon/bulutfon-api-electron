@@ -1,0 +1,13 @@
+{
+  "name": "bulutfon-api-dokumantasyonu",
+  "productName": "Bulutfon Api Dokumantasyonu",
+  "identifier": "com.bulutfon-api-dokumantasyonu",
+  "description": "Starter for your Bulutfon Api Documentation application. Out of the box ready for serious stuff.",
+  "version": "0.1.0",
+  "author": "Bulutfon Telekomunikasyon A.S.",
+  "copyright": "© 2016 Bulutfon Telekomunikasyon A.S.",
+  "main": "background.js",
+  "dependencies": {
+    "fs-jetpack": "^0.7.0"
+  }
+}
