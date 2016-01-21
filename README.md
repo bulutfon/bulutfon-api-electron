@@ -1,8 +1,8 @@
-Bulutfon Api Dokumantasyonu
+Bulutfon Api Dokümantasyonu
 ==============
-Bu repo; bulutfon api dokumantasyonun, cross platform desktop uygulamasinin uncompiled source code'unu icermektedir.
+Bu repo; Bulutfon Api Dokümantasyonun, cross platform desktop uygulamasının uncompiled source code'unu içermektedir.
 
-Electron ve Bulutfon Api Dokumantasyonu hakkinda daha ayrintili bilgiyi [buradan](http://akademi.help/electron-ve-bulutfon-api-dokumantasyonu/) edinebilirsiniz.
+Electron ve Bulutfon Api Dokümantasyonu hakkında daha ayrıntılı bilgiyi [buradan](http://akademi.help/electron-ve-bulutfon-api-dokumantasyonu/) edinebilirsiniz.
 
 # Quick start
 Bu projeyi calistirmak icin [Node.js'in](https://nodejs.org/en/) kurulumasi gerekmektedir.
